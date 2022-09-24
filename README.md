@@ -141,14 +141,15 @@ int main()
 
 ## Output screen shots :
 # LED 0FF:
-![PM EP 1](https://user-images.githubusercontent.com/94219798/192112751-394025f6-f37a-4759-9e62-00bfb40adcdf.JPG)
+![Screenshot (19)](https://user-images.githubusercontent.com/94219798/192113018-14cc029f-7e50-4f35-883e-c3411a4f6881.png)
 
 
 # LED ON:
-![PM EXP 1](https://user-images.githubusercontent.com/94219798/192112705-5f112f87-6b9b-4af5-b585-72ccef5a9b2a.JPG)
+![Screenshot (20)](https://user-images.githubusercontent.com/94219798/192113030-7c65c751-98bd-4620-a265-595e44322f8f.png)
+
 
 # Circuit Diagram :
-![PM EXP1](https://user-images.githubusercontent.com/94219798/192112720-34b4ec63-ce72-4194-a310-868ef7c8bf3e.JPG)
+![Screenshot (21)](https://user-images.githubusercontent.com/94219798/192113045-0a5879bd-6433-41be-a3e8-deb15c64faa2.png)
 
 
 ## Result :
