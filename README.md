@@ -141,7 +141,8 @@ int main()
 
 ## Output screen shots :
 # LED 0FF:
-![PM EXP 1](https://user-images.githubusercontent.com/94219798/192112648-6135f8e0-0ec5-44a7-8a50-86b9d47212bc.JPG)
+![PM EP 1](https://user-images.githubusercontent.com/94219798/192112751-394025f6-f37a-4759-9e62-00bfb40adcdf.JPG)
+
 
 # LED ON:
 ![PM EXP 1](https://user-images.githubusercontent.com/94219798/192112705-5f112f87-6b9b-4af5-b585-72ccef5a9b2a.JPG)
